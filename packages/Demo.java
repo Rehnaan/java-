@@ -8,6 +8,7 @@ public class Demo {
 
     // A public method
     public void displayMessage() {
-        System.out.println("This method is called from outside the 'demo' package.");
+        System.out.println("This method is called from outside the demo package.");
     }
+
 }
